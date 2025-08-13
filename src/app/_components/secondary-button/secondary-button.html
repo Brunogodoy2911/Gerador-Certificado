@@ -1,4 +1,6 @@
-<button class="custom-button">
-  <i class="ph ph-plus"></i>
-  Botão Secondário
+<button [disabled]="disabled" class="custom-button">
+  @if (phClass) {
+  <i class="{{ phClass }}"></i>
+  }
+  {{ textoBotao }}
 </button>
