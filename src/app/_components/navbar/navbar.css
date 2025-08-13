@@ -4,6 +4,10 @@
   border-bottom: 1px solid #e2e8f0;
 }
 
+.navbar-logo img {
+  width: 40px;
+}
+
 .active {
   color: #3b5ac2;
 }
