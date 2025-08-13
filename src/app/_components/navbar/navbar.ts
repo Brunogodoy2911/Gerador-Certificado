@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 
-//Decorador @Component
 @Component({
   selector: 'app-navbar',
   imports: [],

@@ -4,8 +4,6 @@ import { Component } from '@angular/core';
   selector: 'app-base-ui',
   imports: [],
   templateUrl: './base-ui.html',
-  styleUrl: './base-ui.css'
+  styleUrl: './base-ui.css',
 })
-export class BaseUi {
-
-}
+export class BaseUi {}
