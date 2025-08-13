@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap");
+
 .menu-certificado {
   max-width: 800px;
 }
@@ -61,7 +63,7 @@
   font-weight: 900;
   font-size: 24px;
   line-height: 160%;
-  letter-spacing: 10%;
+  letter-spacing: 2.4px;
   color: #1a2856;
 }
 
@@ -76,6 +78,7 @@
 }
 
 .nome-aluno {
+  font-family: "Dancing Script";
   font-weight: 700;
   font-size: 52px;
   line-height: 80px;
