@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg">
   <div class="container-fluid">
-    <a class="navbar-logo">
+    <a routerLink="/" class="navbar-logo">
       <img src="navbar/logo.svg" alt="logo da aplicação" />
     </a>
 
@@ -8,12 +8,14 @@
       <ul class="navbar-nav">
         <li class="nav-item d-flex align-items-center">
           <i class="ph ph-medal active"></i>
-          <a class="nav-link active">Lista de certificados</a>
+          <a routerLink="/" class="nav-link active">Lista de certificados</a>
         </li>
 
         <li class="nav-item d-flex align-items-center ms-3">
           <i class="ph ph-circles-three-plus"></i>
-          <a class="nav-link">Gerar certificados</a>
+          <a routerLink="/certificados/novo" class="nav-link"
+            >Gerar certificados</a
+          >
         </li>
       </ul>
     </div>
