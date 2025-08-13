@@ -9,6 +9,7 @@
   background: linear-gradient(90deg, #1a2856 0%, #334ea9 100%);
   cursor: pointer;
   transition: all 0.3s ease-in-out;
+  font-weight: 600;
 }
 
 .custom-button:hover {
