@@ -28,15 +28,17 @@ O projeto foi construído com foco em:
 
 ## ✨ Funcionalidades
 
-### 🖨️ Geração de Certificados
-- Crie certificados com dados personalizados.
-- Exportação em formato pronto para impressão.
+### 🖨️ Geração e Gestão de Certificados
+- **Cadastro de Certificado:** Crie certificados com dados personalizados de nome e atividades.
+- **Listagem de Certificados:** Visualize todos os certificados gerados em uma lista organizada.
+- **Download do Certificado:** Exporte cada certificado em formato PNG, pronto para impressão e compartilhamento.
 
 ### 🎨 Layout Responsivo
 - Compatível com **desktop**, **tablet** e **mobile**.
 
 ### ⚡ Live Reload
 - Alterações no código refletem instantaneamente no navegador durante o desenvolvimento.
+
 
 ---
 
