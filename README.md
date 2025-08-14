@@ -38,10 +38,6 @@ O projeto foi construído com foco em:
 ### ⚡ Live Reload
 - Alterações no código refletem instantaneamente no navegador durante o desenvolvimento.
 
-### 🧪 Testes Automatizados
-- **Karma** para testes unitários.
-- **Protractor** ou outro framework configurável para testes end-to-end.
-
 ---
 
 ## 🛠️ Tecnologias e Bibliotecas
