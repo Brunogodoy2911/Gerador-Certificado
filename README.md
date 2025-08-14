@@ -1,5 +1,5 @@
 
-# 📌 Gerador de Certificado
+# 📌 Gerador de Certificado Online
 
 <p align="center">
   <img src="https://ik.imagekit.io/brunogodoy/logo.svg?updatedAt=1755144514787.svg" alt="Logo Gerador de Certificado" width="150"/>
@@ -11,13 +11,13 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
-  <img src="https://img.shields.io/github/last-commit/Brunogodoy2911/Gerador-Certificado" alt="Last Commit Badge">
+  <img src="https://img.shields.io/github/last-commit/Brunogodoy2911/Gerador-Certificado-Online" alt="Last Commit Badge">
 </p>
 
 ---
 
 ## 📄 Sobre o Projeto
-O **Gerador de Certificado** é uma aplicação web desenvolvida com **Angular** que permite criar certificados de forma rápida e personalizada.
+O **Gerador de Certificado Online** é uma aplicação web desenvolvida com **Angular** que permite criar certificados de forma rápida e personalizada.
 
 O projeto foi construído com foco em:
 - **Facilidade de uso**: interface simples e intuitiva
@@ -57,8 +57,8 @@ O projeto foi construído com foco em:
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/Brunogodoy2911/Gerador-Certificado.git
-cd Gerador-Certificado
+git clone https://github.com/Brunogodoy2911/Gerador-Certificado-Online.git
+cd Gerador-Certificado-Online
 ```
 
 ### 2️⃣ Instalar dependências
