@@ -1,59 +1,93 @@
-# GeradorCertificado
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.5.
+# 📌 Gerador de Certificado
 
-## Development server
+<p align="center">
+  <img src="https://ik.imagekit.io/brunogodoy/logo.svg?updatedAt=1755144514787.svg" alt="Logo Gerador de Certificado" width="150"/>
+</p>
 
-To start a local development server, run:
+<p align="center"><strong>Versão 1.0.1</strong></p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge">
+  <img src="https://img.shields.io/github/last-commit/Brunogodoy2911/Gerador-Certificado" alt="Last Commit Badge">
+</p>
+
+---
+
+## 📄 Sobre o Projeto
+O **Gerador de Certificado** é uma aplicação web desenvolvida com **Angular** que permite criar certificados de forma rápida e personalizada.
+
+O projeto foi construído com foco em:
+- **Facilidade de uso**: interface simples e intuitiva
+- **Performance**: carregamento rápido e responsivo
+- **Automação**: geração de certificados sem necessidade de edição manual
+
+---
+
+## ✨ Funcionalidades
+
+### 🖨️ Geração de Certificados
+- Crie certificados com dados personalizados.
+- Exportação em formato pronto para impressão.
+
+### 🎨 Layout Responsivo
+- Compatível com **desktop**, **tablet** e **mobile**.
+
+### ⚡ Live Reload
+- Alterações no código refletem instantaneamente no navegador durante o desenvolvimento.
+
+### 🧪 Testes Automatizados
+- **Karma** para testes unitários.
+- **Protractor** ou outro framework configurável para testes end-to-end.
+
+---
+
+## 🛠️ Tecnologias e Bibliotecas
+
+| Categoria         | Tecnologias |
+|-------------------|-------------|
+| **Frontend**      | Angular, TypeScript |
+| **Estilização**   | CSS |
+| **Build e Dev**   | Angular CLI |
+| **Testes**        | Karma, Jasmine |
+
+---
+
+## 🚀 Como Executar
+
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/Brunogodoy2911/Gerador-Certificado.git
+cd Gerador-Certificado
+```
+
+### 2️⃣ Instalar dependências
+```bash
+npm install
+```
+
+### 3️⃣ Rodar o projeto em desenvolvimento
 ```bash
 ng serve
 ```
+Acesse no navegador: **http://localhost:4200/**
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
-
-```bash
-ng generate component component-name
-```
-
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
-
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
+### 4️⃣ Gerar build de produção
 ```bash
 ng build
 ```
+Os arquivos gerados estarão na pasta `dist/`.
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
+### 5️⃣ Rodar testes
 ```bash
 ng test
 ```
 
-## Running end-to-end tests
+---
 
-For end-to-end (e2e) testing, run:
+## 📬 Contato
 
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+💼 **Repositório:** [GitHub](https://github.com/Brunogodoy2911/Gerador-Certificado)  
+🔗 **LinkedIn:** [Bruno Godoy](https://www.linkedin.com/in/brunogodoydev)  
