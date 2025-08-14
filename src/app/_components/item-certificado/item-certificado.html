@@ -1,0 +1,13 @@
+<div class="card p-3 custom-card">
+  <div class="d-flex justify-content-between align-items-center">
+    <div>
+      <div class="fw-bold text-primary nome-aluno">{{ nomeAluno }}</div>
+      <small class="small-date">Gerado em {{ dataEmissao }}</small>
+    </div>
+
+    <app-secondary-button
+      textoBotao="Ver"
+      (click)="redirecionaCertificado()"
+    ></app-secondary-button>
+  </div>
+</div>
