@@ -4,6 +4,7 @@
     <p class="custom-subtitle mb-4">Visualize todos os certificados gerados</p>
   </div>
 
+  @if (certificados.length == 0) {
   <div class="custom-card w-100">
     <i class="ph ph-certificate"></i>
     <div class="custom-warning-title">
@@ -16,12 +17,15 @@
       textoBotao="Gerar certificado"
     ></app-secondary-button>
   </div>
-
+  } @if (certificados.length > 0) {
   <div class="list-certificates w-100">
-    <app-item-certificado></app-item-certificado>
-    <app-item-certificado></app-item-certificado>
-    <app-item-certificado></app-item-certificado>
-    <app-item-certificado></app-item-certificado>
-    <app-item-certificado></app-item-certificado>
+    @for (certificado of certificados; track $index) {
+    <app-item-certificado
+      [nomeAluno]="certificado.nome"
+      [dataEmissao]="certificado.dataEmissao"
+      [id]="certificado.id"
+    ></app-item-certificado>
+    }
   </div>
+  }
 </div>
