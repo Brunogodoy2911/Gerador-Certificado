@@ -89,5 +89,5 @@ ng test
 
 ## 📬 Contato
 
-💼 **Repositório:** [GitHub](https://github.com/Brunogodoy2911/Gerador-Certificado)  
+💼 **Repositório:** [GitHub](https://github.com/Brunogodoy2911)  
 🔗 **LinkedIn:** [Bruno Godoy](https://www.linkedin.com/in/brunogodoydev)  
